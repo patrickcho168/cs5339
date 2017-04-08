@@ -1,0 +1,15 @@
+eta=1.0
+maxBoxes=1000
+edgeMinMag=0.1
+edgeMergeThr=0.5
+clusterMinMag=0.5
+maxAspectRatio=3.0
+minBoxArea=1000
+maxBoxArea=0
+gamma=2.0
+kappa=1.5
+sharpen=2
+alpha=0.65
+beta=0.55
+minScore=0.01
+minReqIOU=0.5
