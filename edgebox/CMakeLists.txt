@@ -22,6 +22,7 @@ add_library(EdgeBox SHARED
 	src/EdgeBox/findEdges.cpp
 	src/EdgeBox/edgeBoxes.cpp
 	src/EdgeBox/evaluation.cpp
+	src/sample/jsoncpp.cpp
 )
 target_link_libraries(EdgeBox ${OpenCV_LIBS})
 
@@ -31,3 +32,5 @@ target_link_libraries(main EdgeBox ${OpenCV_LIBS})
 add_executable(evaluate src/sample/evaluate.cpp)
 target_link_libraries(evaluate EdgeBox ${OpenCV_LIBS})
 
+add_executable(fish src/sample/fish.cpp)
+target_link_libraries(fish EdgeBox ${OpenCV_LIBS})
