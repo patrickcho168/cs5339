@@ -34,3 +34,6 @@ target_link_libraries(evaluate EdgeBox ${OpenCV_LIBS})
 
 add_executable(fish src/sample/fish.cpp)
 target_link_libraries(fish EdgeBox ${OpenCV_LIBS})
+
+add_executable(isFish src/sample/isFish.cpp)
+target_link_libraries(isFish EdgeBox ${OpenCV_LIBS})
