@@ -37,3 +37,6 @@ target_link_libraries(fish EdgeBox ${OpenCV_LIBS})
 
 add_executable(isFish src/sample/isFish.cpp)
 target_link_libraries(isFish EdgeBox ${OpenCV_LIBS})
+
+add_executable(checkRepFish src/sample/checkRepFish.cpp)
+target_link_libraries(checkRepFish EdgeBox ${OpenCV_LIBS})
