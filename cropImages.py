@@ -26,7 +26,7 @@ for jsonPath in files:
         objs = image['annotations']
         
         iterator = 1
-        imgDir = os.path.join('..', 'train', subDir, image['filename'])
+        imgDir = os.path.join('.', 'train', subDir, image['filename'])
         print('Loading {}'.format(imgDir))
         im = Image.open(imgDir)
         #Iterate over the objects given in image
