@@ -86,8 +86,8 @@ int main(int argc, char** argv) {
     fishTypes.push_back("BET_BB.txt");
     fishTypes.push_back("DOL_BB.txt");
     fishTypes.push_back("LAG_BB.txt");
-    // fishTypes.push_back("NoF_BB.txt");
-    // fishTypes.push_back("OTHER_BB.txt");
+    fishTypes.push_back("NoF_BB.txt");
+    fishTypes.push_back("OTHER_BB.txt");
     fishTypes.push_back("SHARK_BB.txt");
     fishTypes.push_back("YFT_BB.txt");
 
@@ -97,9 +97,10 @@ int main(int argc, char** argv) {
     annotations.push_back("bet_labels.json");
     annotations.push_back("dol_labels.json");
     annotations.push_back("lag_labels.json");
+    annotations.push_back("NoF_labels.json");
+    annotations.push_back("other_labels.json");
     annotations.push_back("shark_labels.json");
     annotations.push_back("yft_labels.json");
-    // fishTypes.push_back("YFT_BB.txt");
 
     for (unsigned int j=0; j<fishTypes.size(); ++j) {
         std::string nextFile = bbFolder + fishTypes[j];
@@ -117,7 +118,7 @@ int main(int argc, char** argv) {
 
         for( auto itr = root.begin() ; itr != root.end() ; itr++ ) {
             for( auto itr2 = annoRoot.begin() ; itr2 != annoRoot.end() ; itr2++ ) {
-                if ((*itr)["filename"] == (*itr2)["filename"] || "../data/train/SHARK/" + (*itr)["filename"].asString() == (*itr2)["filename"].asString() || "../data/train/YFT/" + (*itr)["filename"].asString() == (*itr2)["filename"].asString()) {
+                if ((*itr)["filename"] == (*itr2)["filename"] || "../data/train/OTHER/" + (*itr)["filename"].asString() == (*itr2)["filename"].asString() || "../data/train/SHARK/" + (*itr)["filename"].asString() == (*itr2)["filename"].asString() || "../data/train/YFT/" + (*itr)["filename"].asString() == (*itr2)["filename"].asString()) {
                     auto rootAnno = (*itr)["annotations"];
                     auto annoRootAnno = (*itr2)["annotations"];
                     // float biggest = 0.0;
