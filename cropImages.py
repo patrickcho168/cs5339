@@ -14,7 +14,7 @@ for jsonPath in files:
     jsonData = json.load(jsonFile)
 
     subDir = ''
-    dirsList = ['ALB', 'BET', 'DOL', 'LAG', 'SHARK', 'YFT']
+    dirsList = ['ALB', 'BET', 'DOL', 'LAG', 'SHARK', 'YFT', 'OTHER', 'NoF']
     for dir in dirsList:
         if(dir in jsonPath):
             subDir = dir

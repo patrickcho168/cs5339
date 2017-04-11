@@ -1,2 +1,9 @@
 To create croppedImages:
 ./cropImages.sh
+
+
+models:
+original_model.py: To train on un-cropped images, 32*32
+original_model-64.py
+origin_model-128.py
+model.py: final model to work on cropped images  [Need development to support the test boxes]
