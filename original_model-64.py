@@ -41,7 +41,7 @@ def load_train():
     for fld in folders:
         index = folders.index(fld)
         print('Load folder {} (Index: {})'.format(fld, index))
-        path = os.path.join('.', 'train-small', fld, '*.jpg')
+        path = os.path.join('.', 'train', fld, '*.jpg')
         print(path)
         files = glob.glob(path)
         for fl in files:
