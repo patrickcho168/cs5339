@@ -170,7 +170,7 @@ def get_validation_predictions(train_data, predictions_valid):
 def run_cross_validation_create_models(nfolds=10):
     # input image dimensions
     batch_size = 16
-    nb_epoch = 30
+    nb_epoch = 50
     random_state = 51
     train_data, train_target, train_id = read_and_normalize_train_data()
     yfull_train = dict()
