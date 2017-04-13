@@ -26,7 +26,7 @@ from keras import __version__ as keras_version
 
 def get_im_cv2(path):
     img = cv2.imread(path)
-    resized = cv2.resize(img, (32, 32), cv2.INTER_LINEAR)
+    resized = cv2.resize(img, (32, 32), interpolation =cv2.INTER_LINEAR)
     return resized
 
 

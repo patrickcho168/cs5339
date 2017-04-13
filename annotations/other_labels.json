@@ -17,7 +17,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07923.jpg"
+        "filename": "img_07923.jpg"
     },
     {
         "annotations": [
@@ -30,7 +30,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07922.jpg"
+        "filename": "img_07922.jpg"
     },
     {
         "annotations": [
@@ -43,7 +43,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07916.jpg"
+        "filename": "img_07916.jpg"
     },
     {
         "annotations": [
@@ -56,7 +56,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07864.jpg"
+        "filename": "img_07864.jpg"
     },
     {
         "annotations": [
@@ -69,7 +69,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07840.jpg"
+        "filename": "img_07840.jpg"
     },
     {
         "annotations": [
@@ -82,7 +82,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07839.jpg"
+        "filename": "img_07839.jpg"
     },
     {
         "annotations": [
@@ -95,7 +95,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07806.jpg"
+        "filename": "img_07806.jpg"
     },
     {
         "annotations": [
@@ -115,7 +115,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07779.jpg"
+        "filename": "img_07779.jpg"
     },
     {
         "annotations": [
@@ -128,7 +128,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07770.jpg"
+        "filename": "img_07770.jpg"
     },
     {
         "annotations": [
@@ -141,7 +141,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07751.jpg"
+        "filename": "img_07751.jpg"
     },
     {
         "annotations": [
@@ -154,7 +154,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07743.jpg"
+        "filename": "img_07743.jpg"
     },
     {
         "annotations": [
@@ -174,7 +174,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07729.jpg"
+        "filename": "img_07729.jpg"
     },
     {
         "annotations": [
@@ -187,7 +187,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07627.jpg"
+        "filename": "img_07627.jpg"
     },
     {
         "annotations": [
@@ -200,7 +200,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07570.jpg"
+        "filename": "img_07570.jpg"
     },
     {
         "annotations": [
@@ -213,7 +213,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07547.jpg"
+        "filename": "img_07547.jpg"
     },
     {
         "annotations": [
@@ -226,7 +226,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07546.jpg"
+        "filename": "img_07546.jpg"
     },
     {
         "annotations": [
@@ -246,7 +246,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07536.jpg"
+        "filename": "img_07536.jpg"
     },
     {
         "annotations": [
@@ -259,7 +259,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07503.jpg"
+        "filename": "img_07503.jpg"
     },
     {
         "annotations": [
@@ -279,7 +279,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07483.jpg"
+        "filename": "img_07483.jpg"
     },
     {
         "annotations": [
@@ -292,7 +292,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07457.jpg"
+        "filename": "img_07457.jpg"
     },
     {
         "annotations": [
@@ -305,7 +305,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07451.jpg"
+        "filename": "img_07451.jpg"
     },
     {
         "annotations": [
@@ -318,7 +318,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07415.jpg"
+        "filename": "img_07415.jpg"
     },
     {
         "annotations": [
@@ -331,7 +331,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07405.jpg"
+        "filename": "img_07405.jpg"
     },
     {
         "annotations": [
@@ -344,7 +344,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07399.jpg"
+        "filename": "img_07399.jpg"
     },
     {
         "annotations": [
@@ -357,7 +357,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07365.jpg"
+        "filename": "img_07365.jpg"
     },
     {
         "annotations": [
@@ -370,7 +370,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07359.jpg"
+        "filename": "img_07359.jpg"
     },
     {
         "annotations": [
@@ -383,7 +383,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07305.jpg"
+        "filename": "img_07305.jpg"
     },
     {
         "annotations": [
@@ -396,7 +396,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07279.jpg"
+        "filename": "img_07279.jpg"
     },
     {
         "annotations": [
@@ -409,7 +409,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07266.jpg"
+        "filename": "img_07266.jpg"
     },
     {
         "annotations": [
@@ -422,7 +422,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07254.jpg"
+        "filename": "img_07254.jpg"
     },
     {
         "annotations": [
@@ -435,7 +435,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07227.jpg"
+        "filename": "img_07227.jpg"
     },
     {
         "annotations": [
@@ -448,7 +448,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07220.jpg"
+        "filename": "img_07220.jpg"
     },
     {
         "annotations": [
@@ -461,7 +461,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07139.jpg"
+        "filename": "img_07139.jpg"
     },
     {
         "annotations": [
@@ -474,7 +474,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07077.jpg"
+        "filename": "img_07077.jpg"
     },
     {
         "annotations": [
@@ -487,7 +487,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07073.jpg"
+        "filename": "img_07073.jpg"
     },
     {
         "annotations": [
@@ -500,7 +500,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07042.jpg"
+        "filename": "img_07042.jpg"
     },
     {
         "annotations": [
@@ -513,7 +513,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_07019.jpg"
+        "filename": "img_07019.jpg"
     },
     {
         "annotations": [
@@ -526,7 +526,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06984.jpg"
+        "filename": "img_06984.jpg"
     },
     {
         "annotations": [
@@ -539,7 +539,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06878.jpg"
+        "filename": "img_06878.jpg"
     },
     {
         "annotations": [
@@ -559,7 +559,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06877.jpg"
+        "filename": "img_06877.jpg"
     },
     {
         "annotations": [
@@ -579,7 +579,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06863.jpg"
+        "filename": "img_06863.jpg"
     },
     {
         "annotations": [
@@ -592,7 +592,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06818.jpg"
+        "filename": "img_06818.jpg"
     },
     {
         "annotations": [
@@ -612,7 +612,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06785.jpg"
+        "filename": "img_06785.jpg"
     },
     {
         "annotations": [
@@ -632,7 +632,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06766.jpg"
+        "filename": "img_06766.jpg"
     },
     {
         "annotations": [
@@ -645,7 +645,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06740.jpg"
+        "filename": "img_06740.jpg"
     },
     {
         "annotations": [
@@ -658,7 +658,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06719.jpg"
+        "filename": "img_06719.jpg"
     },
     {
         "annotations": [
@@ -671,7 +671,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06708.jpg"
+        "filename": "img_06708.jpg"
     },
     {
         "annotations": [
@@ -691,7 +691,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06706.jpg"
+        "filename": "img_06706.jpg"
     },
     {
         "annotations": [
@@ -711,7 +711,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06700.jpg"
+        "filename": "img_06700.jpg"
     },
     {
         "annotations": [
@@ -731,7 +731,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06699.jpg"
+        "filename": "img_06699.jpg"
     },
     {
         "annotations": [
@@ -751,7 +751,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06651.jpg"
+        "filename": "img_06651.jpg"
     },
     {
         "annotations": [
@@ -764,7 +764,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06584.jpg"
+        "filename": "img_06584.jpg"
     },
     {
         "annotations": [
@@ -777,7 +777,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06578.jpg"
+        "filename": "img_06578.jpg"
     },
     {
         "annotations": [
@@ -790,7 +790,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06463.jpg"
+        "filename": "img_06463.jpg"
     },
     {
         "annotations": [
@@ -803,7 +803,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06419.jpg"
+        "filename": "img_06419.jpg"
     },
     {
         "annotations": [
@@ -823,7 +823,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06382.jpg"
+        "filename": "img_06382.jpg"
     },
     {
         "annotations": [
@@ -836,7 +836,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06363.jpg"
+        "filename": "img_06363.jpg"
     },
     {
         "annotations": [
@@ -849,7 +849,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06239.jpg"
+        "filename": "img_06239.jpg"
     },
     {
         "annotations": [
@@ -869,7 +869,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06199.jpg"
+        "filename": "img_06199.jpg"
     },
     {
         "annotations": [
@@ -882,7 +882,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06155.jpg"
+        "filename": "img_06155.jpg"
     },
     {
         "annotations": [
@@ -895,7 +895,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06149.jpg"
+        "filename": "img_06149.jpg"
     },
     {
         "annotations": [
@@ -908,7 +908,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06136.jpg"
+        "filename": "img_06136.jpg"
     },
     {
         "annotations": [
@@ -928,7 +928,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06133.jpg"
+        "filename": "img_06133.jpg"
     },
     {
         "annotations": [
@@ -941,7 +941,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06111.jpg"
+        "filename": "img_06111.jpg"
     },
     {
         "annotations": [
@@ -954,7 +954,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06105.jpg"
+        "filename": "img_06105.jpg"
     },
     {
         "annotations": [
@@ -967,7 +967,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06093.jpg"
+        "filename": "img_06093.jpg"
     },
     {
         "annotations": [
@@ -980,7 +980,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06087.jpg"
+        "filename": "img_06087.jpg"
     },
     {
         "annotations": [
@@ -993,7 +993,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06070.jpg"
+        "filename": "img_06070.jpg"
     },
     {
         "annotations": [
@@ -1013,7 +1013,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06063.jpg"
+        "filename": "img_06063.jpg"
     },
     {
         "annotations": [
@@ -1026,7 +1026,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06044.jpg"
+        "filename": "img_06044.jpg"
     },
     {
         "annotations": [
@@ -1039,7 +1039,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06028.jpg"
+        "filename": "img_06028.jpg"
     },
     {
         "annotations": [
@@ -1052,7 +1052,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_06005.jpg"
+        "filename": "img_06005.jpg"
     },
     {
         "annotations": [
@@ -1072,7 +1072,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05997.jpg"
+        "filename": "img_05997.jpg"
     },
     {
         "annotations": [
@@ -1092,7 +1092,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05954.jpg"
+        "filename": "img_05954.jpg"
     },
     {
         "annotations": [
@@ -1105,7 +1105,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05943.jpg"
+        "filename": "img_05943.jpg"
     },
     {
         "annotations": [
@@ -1125,7 +1125,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05912.jpg"
+        "filename": "img_05912.jpg"
     },
     {
         "annotations": [
@@ -1145,7 +1145,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05895.jpg"
+        "filename": "img_05895.jpg"
     },
     {
         "annotations": [
@@ -1158,7 +1158,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05860.jpg"
+        "filename": "img_05860.jpg"
     },
     {
         "annotations": [
@@ -1171,7 +1171,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05834.jpg"
+        "filename": "img_05834.jpg"
     },
     {
         "annotations": [
@@ -1191,7 +1191,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05756.jpg"
+        "filename": "img_05756.jpg"
     },
     {
         "annotations": [
@@ -1204,7 +1204,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05753.jpg"
+        "filename": "img_05753.jpg"
     },
     {
         "annotations": [
@@ -1217,7 +1217,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05751.jpg"
+        "filename": "img_05751.jpg"
     },
     {
         "annotations": [
@@ -1230,7 +1230,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05715.jpg"
+        "filename": "img_05715.jpg"
     },
     {
         "annotations": [
@@ -1250,7 +1250,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05711.jpg"
+        "filename": "img_05711.jpg"
     },
     {
         "annotations": [
@@ -1270,7 +1270,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05704.jpg"
+        "filename": "img_05704.jpg"
     },
     {
         "annotations": [
@@ -1283,7 +1283,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05689.jpg"
+        "filename": "img_05689.jpg"
     },
     {
         "annotations": [
@@ -1296,7 +1296,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05645.jpg"
+        "filename": "img_05645.jpg"
     },
     {
         "annotations": [
@@ -1316,7 +1316,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05607.jpg"
+        "filename": "img_05607.jpg"
     },
     {
         "annotations": [
@@ -1329,7 +1329,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05598.jpg"
+        "filename": "img_05598.jpg"
     },
     {
         "annotations": [
@@ -1342,7 +1342,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05546.jpg"
+        "filename": "img_05546.jpg"
     },
     {
         "annotations": [
@@ -1355,7 +1355,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05540.jpg"
+        "filename": "img_05540.jpg"
     },
     {
         "annotations": [
@@ -1368,7 +1368,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05502.jpg"
+        "filename": "img_05502.jpg"
     },
     {
         "annotations": [
@@ -1388,7 +1388,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05490.jpg"
+        "filename": "img_05490.jpg"
     },
     {
         "annotations": [
@@ -1408,7 +1408,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05425.jpg"
+        "filename": "img_05425.jpg"
     },
     {
         "annotations": [
@@ -1421,7 +1421,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05413.jpg"
+        "filename": "img_05413.jpg"
     },
     {
         "annotations": [
@@ -1434,7 +1434,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05345.jpg"
+        "filename": "img_05345.jpg"
     },
     {
         "annotations": [
@@ -1454,7 +1454,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05310.jpg"
+        "filename": "img_05310.jpg"
     },
     {
         "annotations": [
@@ -1467,7 +1467,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05287.jpg"
+        "filename": "img_05287.jpg"
     },
     {
         "annotations": [
@@ -1480,7 +1480,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05274.jpg"
+        "filename": "img_05274.jpg"
     },
     {
         "annotations": [
@@ -1493,7 +1493,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05239.jpg"
+        "filename": "img_05239.jpg"
     },
     {
         "annotations": [
@@ -1513,7 +1513,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05223.jpg"
+        "filename": "img_05223.jpg"
     },
     {
         "annotations": [
@@ -1533,7 +1533,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05216.jpg"
+        "filename": "img_05216.jpg"
     },
     {
         "annotations": [
@@ -1546,7 +1546,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05155.jpg"
+        "filename": "img_05155.jpg"
     },
     {
         "annotations": [
@@ -1566,7 +1566,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05141.jpg"
+        "filename": "img_05141.jpg"
     },
     {
         "annotations": [
@@ -1579,7 +1579,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05133.jpg"
+        "filename": "img_05133.jpg"
     },
     {
         "annotations": [
@@ -1599,7 +1599,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05114.jpg"
+        "filename": "img_05114.jpg"
     },
     {
         "annotations": [
@@ -1612,7 +1612,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05112.jpg"
+        "filename": "img_05112.jpg"
     },
     {
         "annotations": [
@@ -1625,7 +1625,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05111.jpg"
+        "filename": "img_05111.jpg"
     },
     {
         "annotations": [
@@ -1645,7 +1645,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05092.jpg"
+        "filename": "img_05092.jpg"
     },
     {
         "annotations": [
@@ -1665,7 +1665,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05082.jpg"
+        "filename": "img_05082.jpg"
     },
     {
         "annotations": [
@@ -1678,7 +1678,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05070.jpg"
+        "filename": "img_05070.jpg"
     },
     {
         "annotations": [
@@ -1698,7 +1698,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_05009.jpg"
+        "filename": "img_05009.jpg"
     },
     {
         "annotations": [
@@ -1711,7 +1711,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04996.jpg"
+        "filename": "img_04996.jpg"
     },
     {
         "annotations": [
@@ -1724,7 +1724,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04992.jpg"
+        "filename": "img_04992.jpg"
     },
     {
         "annotations": [
@@ -1737,7 +1737,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04988.jpg"
+        "filename": "img_04988.jpg"
     },
     {
         "annotations": [
@@ -1757,7 +1757,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04967.jpg"
+        "filename": "img_04967.jpg"
     },
     {
         "annotations": [
@@ -1770,7 +1770,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04966.jpg"
+        "filename": "img_04966.jpg"
     },
     {
         "annotations": [
@@ -1790,7 +1790,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04948.jpg"
+        "filename": "img_04948.jpg"
     },
     {
         "annotations": [
@@ -1803,7 +1803,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04928.jpg"
+        "filename": "img_04928.jpg"
     },
     {
         "annotations": [
@@ -1823,7 +1823,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04880.jpg"
+        "filename": "img_04880.jpg"
     },
     {
         "annotations": [
@@ -1836,7 +1836,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04873.jpg"
+        "filename": "img_04873.jpg"
     },
     {
         "annotations": [
@@ -1849,7 +1849,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04851.jpg"
+        "filename": "img_04851.jpg"
     },
     {
         "annotations": [
@@ -1876,7 +1876,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04826.jpg"
+        "filename": "img_04826.jpg"
     },
     {
         "annotations": [
@@ -1889,7 +1889,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04820.jpg"
+        "filename": "img_04820.jpg"
     },
     {
         "annotations": [
@@ -1902,7 +1902,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04779.jpg"
+        "filename": "img_04779.jpg"
     },
     {
         "annotations": [
@@ -1922,7 +1922,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04769.jpg"
+        "filename": "img_04769.jpg"
     },
     {
         "annotations": [
@@ -1935,7 +1935,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04751.jpg"
+        "filename": "img_04751.jpg"
     },
     {
         "annotations": [
@@ -1955,7 +1955,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04717.jpg"
+        "filename": "img_04717.jpg"
     },
     {
         "annotations": [
@@ -1968,7 +1968,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04702.jpg"
+        "filename": "img_04702.jpg"
     },
     {
         "annotations": [
@@ -1981,7 +1981,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04693.jpg"
+        "filename": "img_04693.jpg"
     },
     {
         "annotations": [
@@ -2001,7 +2001,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04685.jpg"
+        "filename": "img_04685.jpg"
     },
     {
         "annotations": [
@@ -2014,7 +2014,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04680.jpg"
+        "filename": "img_04680.jpg"
     },
     {
         "annotations": [
@@ -2027,7 +2027,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04652.jpg"
+        "filename": "img_04652.jpg"
     },
     {
         "annotations": [
@@ -2040,7 +2040,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04636.jpg"
+        "filename": "img_04636.jpg"
     },
     {
         "annotations": [
@@ -2053,7 +2053,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04617.jpg"
+        "filename": "img_04617.jpg"
     },
     {
         "annotations": [
@@ -2073,7 +2073,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04592.jpg"
+        "filename": "img_04592.jpg"
     },
     {
         "annotations": [
@@ -2086,7 +2086,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04565.jpg"
+        "filename": "img_04565.jpg"
     },
     {
         "annotations": [
@@ -2099,7 +2099,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04556.jpg"
+        "filename": "img_04556.jpg"
     },
     {
         "annotations": [
@@ -2119,7 +2119,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04548.jpg"
+        "filename": "img_04548.jpg"
     },
     {
         "annotations": [
@@ -2132,7 +2132,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04530.jpg"
+        "filename": "img_04530.jpg"
     },
     {
         "annotations": [
@@ -2145,7 +2145,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04495.jpg"
+        "filename": "img_04495.jpg"
     },
     {
         "annotations": [
@@ -2165,7 +2165,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04494.jpg"
+        "filename": "img_04494.jpg"
     },
     {
         "annotations": [
@@ -2178,7 +2178,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04484.jpg"
+        "filename": "img_04484.jpg"
     },
     {
         "annotations": [
@@ -2198,7 +2198,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04448.jpg"
+        "filename": "img_04448.jpg"
     },
     {
         "annotations": [
@@ -2218,7 +2218,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04434.jpg"
+        "filename": "img_04434.jpg"
     },
     {
         "annotations": [
@@ -2231,7 +2231,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04396.jpg"
+        "filename": "img_04396.jpg"
     },
     {
         "annotations": [
@@ -2251,7 +2251,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04391.jpg"
+        "filename": "img_04391.jpg"
     },
     {
         "annotations": [
@@ -2264,7 +2264,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04380.jpg"
+        "filename": "img_04380.jpg"
     },
     {
         "annotations": [
@@ -2277,7 +2277,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04371.jpg"
+        "filename": "img_04371.jpg"
     },
     {
         "annotations": [
@@ -2290,7 +2290,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04366.jpg"
+        "filename": "img_04366.jpg"
     },
     {
         "annotations": [
@@ -2303,7 +2303,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04253.jpg"
+        "filename": "img_04253.jpg"
     },
     {
         "annotations": [
@@ -2316,7 +2316,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04238.jpg"
+        "filename": "img_04238.jpg"
     },
     {
         "annotations": [
@@ -2329,7 +2329,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04150.jpg"
+        "filename": "img_04150.jpg"
     },
     {
         "annotations": [
@@ -2342,7 +2342,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04123.jpg"
+        "filename": "img_04123.jpg"
     },
     {
         "annotations": [
@@ -2355,7 +2355,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04072.jpg"
+        "filename": "img_04072.jpg"
     },
     {
         "annotations": [
@@ -2368,7 +2368,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04064.jpg"
+        "filename": "img_04064.jpg"
     },
     {
         "annotations": [
@@ -2388,7 +2388,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04060.jpg"
+        "filename": "img_04060.jpg"
     },
     {
         "annotations": [
@@ -2408,7 +2408,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04057.jpg"
+        "filename": "img_04057.jpg"
     },
     {
         "annotations": [
@@ -2428,7 +2428,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_04012.jpg"
+        "filename": "img_04012.jpg"
     },
     {
         "annotations": [
@@ -2441,7 +2441,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03979.jpg"
+        "filename": "img_03979.jpg"
     },
     {
         "annotations": [
@@ -2454,7 +2454,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03975.jpg"
+        "filename": "img_03975.jpg"
     },
     {
         "annotations": [
@@ -2467,7 +2467,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03951.jpg"
+        "filename": "img_03951.jpg"
     },
     {
         "annotations": [
@@ -2487,7 +2487,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03917.jpg"
+        "filename": "img_03917.jpg"
     },
     {
         "annotations": [
@@ -2500,7 +2500,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03873.jpg"
+        "filename": "img_03873.jpg"
     },
     {
         "annotations": [
@@ -2520,7 +2520,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03841.jpg"
+        "filename": "img_03841.jpg"
     },
     {
         "annotations": [
@@ -2540,7 +2540,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03834.jpg"
+        "filename": "img_03834.jpg"
     },
     {
         "annotations": [
@@ -2553,7 +2553,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03807.jpg"
+        "filename": "img_03807.jpg"
     },
     {
         "annotations": [
@@ -2566,7 +2566,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03772.jpg"
+        "filename": "img_03772.jpg"
     },
     {
         "annotations": [
@@ -2579,7 +2579,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03742.jpg"
+        "filename": "img_03742.jpg"
     },
     {
         "annotations": [
@@ -2592,7 +2592,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03716.jpg"
+        "filename": "img_03716.jpg"
     },
     {
         "annotations": [
@@ -2612,7 +2612,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03646.jpg"
+        "filename": "img_03646.jpg"
     },
     {
         "annotations": [
@@ -2625,7 +2625,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03572.jpg"
+        "filename": "img_03572.jpg"
     },
     {
         "annotations": [
@@ -2638,7 +2638,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03530.jpg"
+        "filename": "img_03530.jpg"
     },
     {
         "annotations": [
@@ -2651,7 +2651,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03526.jpg"
+        "filename": "img_03526.jpg"
     },
     {
         "annotations": [
@@ -2671,7 +2671,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03395.jpg"
+        "filename": "img_03395.jpg"
     },
     {
         "annotations": [
@@ -2684,7 +2684,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03389.jpg"
+        "filename": "img_03389.jpg"
     },
     {
         "annotations": [
@@ -2704,7 +2704,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03383.jpg"
+        "filename": "img_03383.jpg"
     },
     {
         "annotations": [
@@ -2724,7 +2724,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03365.jpg"
+        "filename": "img_03365.jpg"
     },
     {
         "annotations": [
@@ -2737,7 +2737,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03308.jpg"
+        "filename": "img_03308.jpg"
     },
     {
         "annotations": [
@@ -2750,7 +2750,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03298.jpg"
+        "filename": "img_03298.jpg"
     },
     {
         "annotations": [
@@ -2763,7 +2763,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03267.jpg"
+        "filename": "img_03267.jpg"
     },
     {
         "annotations": [
@@ -2776,7 +2776,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03265.jpg"
+        "filename": "img_03265.jpg"
     },
     {
         "annotations": [
@@ -2796,7 +2796,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03246.jpg"
+        "filename": "img_03246.jpg"
     },
     {
         "annotations": [
@@ -2809,7 +2809,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03243.jpg"
+        "filename": "img_03243.jpg"
     },
     {
         "annotations": [
@@ -2829,7 +2829,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03191.jpg"
+        "filename": "img_03191.jpg"
     },
     {
         "annotations": [
@@ -2842,7 +2842,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03163.jpg"
+        "filename": "img_03163.jpg"
     },
     {
         "annotations": [
@@ -2862,7 +2862,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03133.jpg"
+        "filename": "img_03133.jpg"
     },
     {
         "annotations": [
@@ -2875,7 +2875,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03132.jpg"
+        "filename": "img_03132.jpg"
     },
     {
         "annotations": [
@@ -2888,7 +2888,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03076.jpg"
+        "filename": "img_03076.jpg"
     },
     {
         "annotations": [
@@ -2901,7 +2901,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03070.jpg"
+        "filename": "img_03070.jpg"
     },
     {
         "annotations": [
@@ -2914,7 +2914,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03066.jpg"
+        "filename": "img_03066.jpg"
     },
     {
         "annotations": [
@@ -2927,7 +2927,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03049.jpg"
+        "filename": "img_03049.jpg"
     },
     {
         "annotations": [
@@ -2940,7 +2940,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_03022.jpg"
+        "filename": "img_03022.jpg"
     },
     {
         "annotations": [
@@ -2953,7 +2953,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02959.jpg"
+        "filename": "img_02959.jpg"
     },
     {
         "annotations": [
@@ -2966,7 +2966,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02955.jpg"
+        "filename": "img_02955.jpg"
     },
     {
         "annotations": [
@@ -2979,7 +2979,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02942.jpg"
+        "filename": "img_02942.jpg"
     },
     {
         "annotations": [
@@ -2992,7 +2992,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02874.jpg"
+        "filename": "img_02874.jpg"
     },
     {
         "annotations": [
@@ -3005,7 +3005,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02831.jpg"
+        "filename": "img_02831.jpg"
     },
     {
         "annotations": [
@@ -3018,7 +3018,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02802.jpg"
+        "filename": "img_02802.jpg"
     },
     {
         "annotations": [
@@ -3031,7 +3031,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02792.jpg"
+        "filename": "img_02792.jpg"
     },
     {
         "annotations": [
@@ -3044,7 +3044,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02773.jpg"
+        "filename": "img_02773.jpg"
     },
     {
         "annotations": [
@@ -3064,7 +3064,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02760.jpg"
+        "filename": "img_02760.jpg"
     },
     {
         "annotations": [
@@ -3077,7 +3077,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02745.jpg"
+        "filename": "img_02745.jpg"
     },
     {
         "annotations": [
@@ -3090,7 +3090,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02715.jpg"
+        "filename": "img_02715.jpg"
     },
     {
         "annotations": [
@@ -3103,7 +3103,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02691.jpg"
+        "filename": "img_02691.jpg"
     },
     {
         "annotations": [
@@ -3116,7 +3116,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02680.jpg"
+        "filename": "img_02680.jpg"
     },
     {
         "annotations": [
@@ -3129,7 +3129,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02595.jpg"
+        "filename": "img_02595.jpg"
     },
     {
         "annotations": [
@@ -3142,7 +3142,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02543.jpg"
+        "filename": "img_02543.jpg"
     },
     {
         "annotations": [
@@ -3155,7 +3155,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02541.jpg"
+        "filename": "img_02541.jpg"
     },
     {
         "annotations": [
@@ -3175,7 +3175,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02528.jpg"
+        "filename": "img_02528.jpg"
     },
     {
         "annotations": [
@@ -3195,7 +3195,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02511.jpg"
+        "filename": "img_02511.jpg"
     },
     {
         "annotations": [
@@ -3208,7 +3208,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02419.jpg"
+        "filename": "img_02419.jpg"
     },
     {
         "annotations": [
@@ -3221,7 +3221,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02413.jpg"
+        "filename": "img_02413.jpg"
     },
     {
         "annotations": [
@@ -3234,7 +3234,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02407.jpg"
+        "filename": "img_02407.jpg"
     },
     {
         "annotations": [
@@ -3247,7 +3247,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02395.jpg"
+        "filename": "img_02395.jpg"
     },
     {
         "annotations": [
@@ -3267,7 +3267,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02377.jpg"
+        "filename": "img_02377.jpg"
     },
     {
         "annotations": [
@@ -3287,7 +3287,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02360.jpg"
+        "filename": "img_02360.jpg"
     },
     {
         "annotations": [
@@ -3300,7 +3300,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02353.jpg"
+        "filename": "img_02353.jpg"
     },
     {
         "annotations": [
@@ -3313,7 +3313,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02331.jpg"
+        "filename": "img_02331.jpg"
     },
     {
         "annotations": [
@@ -3333,7 +3333,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02202.jpg"
+        "filename": "img_02202.jpg"
     },
     {
         "annotations": [
@@ -3346,7 +3346,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02198.jpg"
+        "filename": "img_02198.jpg"
     },
     {
         "annotations": [
@@ -3359,7 +3359,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02177.jpg"
+        "filename": "img_02177.jpg"
     },
     {
         "annotations": [
@@ -3372,7 +3372,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02160.jpg"
+        "filename": "img_02160.jpg"
     },
     {
         "annotations": [
@@ -3385,7 +3385,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02099.jpg"
+        "filename": "img_02099.jpg"
     },
     {
         "annotations": [
@@ -3398,7 +3398,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02084.jpg"
+        "filename": "img_02084.jpg"
     },
     {
         "annotations": [
@@ -3418,7 +3418,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02051.jpg"
+        "filename": "img_02051.jpg"
     },
     {
         "annotations": [
@@ -3431,7 +3431,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02031.jpg"
+        "filename": "img_02031.jpg"
     },
     {
         "annotations": [
@@ -3451,7 +3451,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_02011.jpg"
+        "filename": "img_02011.jpg"
     },
     {
         "annotations": [
@@ -3464,7 +3464,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01993.jpg"
+        "filename": "img_01993.jpg"
     },
     {
         "annotations": [
@@ -3477,7 +3477,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01982.jpg"
+        "filename": "img_01982.jpg"
     },
     {
         "annotations": [
@@ -3490,7 +3490,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01957.jpg"
+        "filename": "img_01957.jpg"
     },
     {
         "annotations": [
@@ -3510,7 +3510,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01879.jpg"
+        "filename": "img_01879.jpg"
     },
     {
         "annotations": [
@@ -3523,7 +3523,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01871.jpg"
+        "filename": "img_01871.jpg"
     },
     {
         "annotations": [
@@ -3543,7 +3543,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01866.jpg"
+        "filename": "img_01866.jpg"
     },
     {
         "annotations": [
@@ -3563,7 +3563,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01814.jpg"
+        "filename": "img_01814.jpg"
     },
     {
         "annotations": [
@@ -3576,7 +3576,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01807.jpg"
+        "filename": "img_01807.jpg"
     },
     {
         "annotations": [
@@ -3589,7 +3589,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01697.jpg"
+        "filename": "img_01697.jpg"
     },
     {
         "annotations": [
@@ -3602,7 +3602,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01692.jpg"
+        "filename": "img_01692.jpg"
     },
     {
         "annotations": [
@@ -3622,7 +3622,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01678.jpg"
+        "filename": "img_01678.jpg"
     },
     {
         "annotations": [
@@ -3635,7 +3635,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01664.jpg"
+        "filename": "img_01664.jpg"
     },
     {
         "annotations": [
@@ -3648,7 +3648,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01656.jpg"
+        "filename": "img_01656.jpg"
     },
     {
         "annotations": [
@@ -3668,7 +3668,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01648.jpg"
+        "filename": "img_01648.jpg"
     },
     {
         "annotations": [
@@ -3681,7 +3681,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01639.jpg"
+        "filename": "img_01639.jpg"
     },
     {
         "annotations": [
@@ -3694,7 +3694,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01559.jpg"
+        "filename": "img_01559.jpg"
     },
     {
         "annotations": [
@@ -3714,7 +3714,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01534.jpg"
+        "filename": "img_01534.jpg"
     },
     {
         "annotations": [
@@ -3734,7 +3734,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01526.jpg"
+        "filename": "img_01526.jpg"
     },
     {
         "annotations": [
@@ -3747,7 +3747,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01522.jpg"
+        "filename": "img_01522.jpg"
     },
     {
         "annotations": [
@@ -3760,7 +3760,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01483.jpg"
+        "filename": "img_01483.jpg"
     },
     {
         "annotations": [
@@ -3773,7 +3773,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01452.jpg"
+        "filename": "img_01452.jpg"
     },
     {
         "annotations": [
@@ -3786,7 +3786,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01451.jpg"
+        "filename": "img_01451.jpg"
     },
     {
         "annotations": [
@@ -3799,7 +3799,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01428.jpg"
+        "filename": "img_01428.jpg"
     },
     {
         "annotations": [
@@ -3812,7 +3812,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01425.jpg"
+        "filename": "img_01425.jpg"
     },
     {
         "annotations": [
@@ -3825,7 +3825,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01423.jpg"
+        "filename": "img_01423.jpg"
     },
     {
         "annotations": [
@@ -3838,7 +3838,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01418.jpg"
+        "filename": "img_01418.jpg"
     },
     {
         "annotations": [
@@ -3858,7 +3858,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01400.jpg"
+        "filename": "img_01400.jpg"
     },
     {
         "annotations": [
@@ -3871,7 +3871,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01356.jpg"
+        "filename": "img_01356.jpg"
     },
     {
         "annotations": [
@@ -3891,7 +3891,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01349.jpg"
+        "filename": "img_01349.jpg"
     },
     {
         "annotations": [
@@ -3911,7 +3911,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01327.jpg"
+        "filename": "img_01327.jpg"
     },
     {
         "annotations": [
@@ -3931,7 +3931,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01175.jpg"
+        "filename": "img_01175.jpg"
     },
     {
         "annotations": [
@@ -3944,7 +3944,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01080.jpg"
+        "filename": "img_01080.jpg"
     },
     {
         "annotations": [
@@ -3957,7 +3957,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01044.jpg"
+        "filename": "img_01044.jpg"
     },
     {
         "annotations": [
@@ -3970,7 +3970,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_01019.jpg"
+        "filename": "img_01019.jpg"
     },
     {
         "annotations": [
@@ -3983,7 +3983,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00908.jpg"
+        "filename": "img_00908.jpg"
     },
     {
         "annotations": [
@@ -3996,7 +3996,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00886.jpg"
+        "filename": "img_00886.jpg"
     },
     {
         "annotations": [
@@ -4009,7 +4009,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00862.jpg"
+        "filename": "img_00862.jpg"
     },
     {
         "annotations": [
@@ -4029,7 +4029,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00851.jpg"
+        "filename": "img_00851.jpg"
     },
     {
         "annotations": [
@@ -4042,7 +4042,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00848.jpg"
+        "filename": "img_00848.jpg"
     },
     {
         "annotations": [
@@ -4062,7 +4062,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00821.jpg"
+        "filename": "img_00821.jpg"
     },
     {
         "annotations": [
@@ -4075,7 +4075,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00814.jpg"
+        "filename": "img_00814.jpg"
     },
     {
         "annotations": [
@@ -4088,7 +4088,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00802.jpg"
+        "filename": "img_00802.jpg"
     },
     {
         "annotations": [
@@ -4101,7 +4101,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00781.jpg"
+        "filename": "img_00781.jpg"
     },
     {
         "annotations": [
@@ -4114,7 +4114,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00721.jpg"
+        "filename": "img_00721.jpg"
     },
     {
         "annotations": [
@@ -4134,7 +4134,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00698.jpg"
+        "filename": "img_00698.jpg"
     },
     {
         "annotations": [
@@ -4147,7 +4147,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00691.jpg"
+        "filename": "img_00691.jpg"
     },
     {
         "annotations": [
@@ -4167,7 +4167,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00670.jpg"
+        "filename": "img_00670.jpg"
     },
     {
         "annotations": [
@@ -4180,7 +4180,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00639.jpg"
+        "filename": "img_00639.jpg"
     },
     {
         "annotations": [
@@ -4193,7 +4193,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00631.jpg"
+        "filename": "img_00631.jpg"
     },
     {
         "annotations": [
@@ -4206,7 +4206,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00589.jpg"
+        "filename": "img_00589.jpg"
     },
     {
         "annotations": [
@@ -4219,7 +4219,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00574.jpg"
+        "filename": "img_00574.jpg"
     },
     {
         "annotations": [
@@ -4232,7 +4232,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00485.jpg"
+        "filename": "img_00485.jpg"
     },
     {
         "annotations": [
@@ -4252,7 +4252,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00472.jpg"
+        "filename": "img_00472.jpg"
     },
     {
         "annotations": [
@@ -4265,7 +4265,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00453.jpg"
+        "filename": "img_00453.jpg"
     },
     {
         "annotations": [
@@ -4278,7 +4278,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00434.jpg"
+        "filename": "img_00434.jpg"
     },
     {
         "annotations": [
@@ -4291,7 +4291,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00433.jpg"
+        "filename": "img_00433.jpg"
     },
     {
         "annotations": [
@@ -4304,7 +4304,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00412.jpg"
+        "filename": "img_00412.jpg"
     },
     {
         "annotations": [
@@ -4317,7 +4317,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00397.jpg"
+        "filename": "img_00397.jpg"
     },
     {
         "annotations": [
@@ -4330,7 +4330,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00368.jpg"
+        "filename": "img_00368.jpg"
     },
     {
         "annotations": [
@@ -4343,7 +4343,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00359.jpg"
+        "filename": "img_00359.jpg"
     },
     {
         "annotations": [
@@ -4356,7 +4356,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00332.jpg"
+        "filename": "img_00332.jpg"
     },
     {
         "annotations": [
@@ -4369,7 +4369,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00305.jpg"
+        "filename": "img_00305.jpg"
     },
     {
         "annotations": [
@@ -4382,7 +4382,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00267.jpg"
+        "filename": "img_00267.jpg"
     },
     {
         "annotations": [
@@ -4402,7 +4402,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00263.jpg"
+        "filename": "img_00263.jpg"
     },
     {
         "annotations": [
@@ -4415,7 +4415,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00262.jpg"
+        "filename": "img_00262.jpg"
     },
     {
         "annotations": [
@@ -4435,7 +4435,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00261.jpg"
+        "filename": "img_00261.jpg"
     },
     {
         "annotations": [
@@ -4448,7 +4448,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00226.jpg"
+        "filename": "img_00226.jpg"
     },
     {
         "annotations": [
@@ -4468,7 +4468,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00183.jpg"
+        "filename": "img_00183.jpg"
     },
     {
         "annotations": [
@@ -4488,7 +4488,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00127.jpg"
+        "filename": "img_00127.jpg"
     },
     {
         "annotations": [
@@ -4501,7 +4501,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00126.jpg"
+        "filename": "img_00126.jpg"
     },
     {
         "annotations": [
@@ -4514,6 +4514,6 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/OTHER/img_00063.jpg"
+        "filename": "img_00063.jpg"
     }
 ]

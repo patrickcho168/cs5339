@@ -34,11 +34,11 @@ def load_train():
     y_train = []
     start_time = time.time()
     print('Read train images')
-    folders = os.listdir('./croppedImages/') #['ALB', 'BET', 'DOL', 'LAG', 'NoF', 'OTHER', 'SHARK', 'YFT']
+    folders = os.listdir('./croppedImagesGroundTruth/') #['ALB', 'BET', 'DOL', 'LAG', 'NoF', 'OTHER', 'SHARK', 'YFT']
     for fld in folders:
         index = folders.index(fld)
         print('Load folder {} (Index: {})'.format(fld, index))
-        path = os.path.join('.', 'croppedImages', fld, '*.jpg')
+        path = os.path.join('.', 'croppedImagesGroundTruth', fld, '*.jpg')
         print(path)
         files = glob.glob(path)
         for fl in files:
@@ -79,7 +79,7 @@ def load_test2():
 
 
 def create_submission(predictions, test_id, info):
-    result1 = pd.DataFrame(predictions, columns=os.listdir('./croppedImages/'))
+    result1 = pd.DataFrame(predictions, columns=os.listdir('./croppedImagesGroundTruth/'))
     result1.loc[:, 'image'] = pd.Series(test_id, index=result1.index)
     now = datetime.datetime.now()
     sub_file = 'submission_' + info + '_' + str(now.strftime("%Y-%m-%d-%H-%M")) + '.csv'
@@ -192,7 +192,7 @@ def run_cross_validation_create_models(nfolds=10):
               callbacks=callbacks)
         predictions_valid = model.predict(X_valid.astype('float32'), batch_size=batch_size, verbose=2)
         print(predictions_valid)
-        printf(Y_valid)
+        print(Y_valid)
         score = log_loss(Y_valid, predictions_valid)
         print('Score log_loss: ', score)
         sum_score += score*len(test_index)

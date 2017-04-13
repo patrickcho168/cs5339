@@ -10,7 +10,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07860.jpg"
+        "filename": "img_07860.jpg"
     },
     {
         "annotations": [
@@ -23,7 +23,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07857.jpg"
+        "filename": "img_07857.jpg"
     },
     {
         "annotations": [
@@ -36,7 +36,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07841.jpg"
+        "filename": "img_07841.jpg"
     },
     {
         "annotations": [
@@ -49,7 +49,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07661.jpg"
+        "filename": "img_07661.jpg"
     },
     {
         "annotations": [
@@ -62,7 +62,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07556.jpg"
+        "filename": "img_07556.jpg"
     },
     {
         "annotations": [
@@ -75,7 +75,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07533.jpg"
+        "filename": "img_07533.jpg"
     },
     {
         "annotations": [
@@ -88,7 +88,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07498.jpg"
+        "filename": "img_07498.jpg"
     },
     {
         "annotations": [
@@ -101,7 +101,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07484.jpg"
+        "filename": "img_07484.jpg"
     },
     {
         "annotations": [
@@ -114,7 +114,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07473.jpg"
+        "filename": "img_07473.jpg"
     },
     {
         "annotations": [
@@ -127,7 +127,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07414.jpg"
+        "filename": "img_07414.jpg"
     },
     {
         "annotations": [
@@ -140,7 +140,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07392.jpg"
+        "filename": "img_07392.jpg"
     },
     {
         "annotations": [
@@ -153,7 +153,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07282.jpg"
+        "filename": "img_07282.jpg"
     },
     {
         "annotations": [
@@ -166,7 +166,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07221.jpg"
+        "filename": "img_07221.jpg"
     },
     {
         "annotations": [
@@ -179,7 +179,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07080.jpg"
+        "filename": "img_07080.jpg"
     },
     {
         "annotations": [
@@ -192,7 +192,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07056.jpg"
+        "filename": "img_07056.jpg"
     },
     {
         "annotations": [
@@ -205,7 +205,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07022.jpg"
+        "filename": "img_07022.jpg"
     },
     {
         "annotations": [
@@ -218,7 +218,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_07003.jpg"
+        "filename": "img_07003.jpg"
     },
     {
         "annotations": [
@@ -231,7 +231,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06956.jpg"
+        "filename": "img_06956.jpg"
     },
     {
         "annotations": [
@@ -244,7 +244,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06913.jpg"
+        "filename": "img_06913.jpg"
     },
     {
         "annotations": [
@@ -257,7 +257,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06903.jpg"
+        "filename": "img_06903.jpg"
     },
     {
         "annotations": [
@@ -270,7 +270,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06881.jpg"
+        "filename": "img_06881.jpg"
     },
     {
         "annotations": [
@@ -283,7 +283,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06847.jpg"
+        "filename": "img_06847.jpg"
     },
     {
         "annotations": [
@@ -296,7 +296,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06821.jpg"
+        "filename": "img_06821.jpg"
     },
     {
         "annotations": [
@@ -309,7 +309,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06786.jpg"
+        "filename": "img_06786.jpg"
     },
     {
         "annotations": [
@@ -322,7 +322,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06686.jpg"
+        "filename": "img_06686.jpg"
     },
     {
         "annotations": [
@@ -335,7 +335,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06677.jpg"
+        "filename": "img_06677.jpg"
     },
     {
         "annotations": [
@@ -348,7 +348,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06595.jpg"
+        "filename": "img_06595.jpg"
     },
     {
         "annotations": [
@@ -361,7 +361,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06590.jpg"
+        "filename": "img_06590.jpg"
     },
     {
         "annotations": [
@@ -374,7 +374,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06537.jpg"
+        "filename": "img_06537.jpg"
     },
     {
         "annotations": [
@@ -387,7 +387,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06523.jpg"
+        "filename": "img_06523.jpg"
     },
     {
         "annotations": [
@@ -400,7 +400,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06493.jpg"
+        "filename": "img_06493.jpg"
     },
     {
         "annotations": [
@@ -413,7 +413,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06474.jpg"
+        "filename": "img_06474.jpg"
     },
     {
         "annotations": [
@@ -426,7 +426,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06467.jpg"
+        "filename": "img_06467.jpg"
     },
     {
         "annotations": [
@@ -439,7 +439,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06448.jpg"
+        "filename": "img_06448.jpg"
     },
     {
         "annotations": [
@@ -452,7 +452,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06444.jpg"
+        "filename": "img_06444.jpg"
     },
     {
         "annotations": [
@@ -465,7 +465,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06410.jpg"
+        "filename": "img_06410.jpg"
     },
     {
         "annotations": [
@@ -478,7 +478,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06385.jpg"
+        "filename": "img_06385.jpg"
     },
     {
         "annotations": [
@@ -491,7 +491,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06303.jpg"
+        "filename": "img_06303.jpg"
     },
     {
         "annotations": [
@@ -504,7 +504,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06220.jpg"
+        "filename": "img_06220.jpg"
     },
     {
         "annotations": [
@@ -517,7 +517,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06163.jpg"
+        "filename": "img_06163.jpg"
     },
     {
         "annotations": [
@@ -530,7 +530,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06124.jpg"
+        "filename": "img_06124.jpg"
     },
     {
         "annotations": [
@@ -543,12 +543,12 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06118.jpg"
+        "filename": "img_06118.jpg"
     },
     {
         "annotations": [],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06082.jpg"
+        "filename": "img_06082.jpg"
     },
     {
         "annotations": [
@@ -561,7 +561,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06013.jpg"
+        "filename": "img_06013.jpg"
     },
     {
         "annotations": [
@@ -574,7 +574,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06006.jpg"
+        "filename": "img_06006.jpg"
     },
     {
         "annotations": [
@@ -587,7 +587,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_06000.jpg"
+        "filename": "img_06000.jpg"
     },
     {
         "annotations": [
@@ -600,7 +600,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05942.jpg"
+        "filename": "img_05942.jpg"
     },
     {
         "annotations": [
@@ -613,7 +613,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05900.jpg"
+        "filename": "img_05900.jpg"
     },
     {
         "annotations": [
@@ -626,7 +626,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05887.jpg"
+        "filename": "img_05887.jpg"
     },
     {
         "annotations": [
@@ -639,7 +639,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05873.jpg"
+        "filename": "img_05873.jpg"
     },
     {
         "annotations": [
@@ -652,7 +652,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05872.jpg"
+        "filename": "img_05872.jpg"
     },
     {
         "annotations": [
@@ -665,7 +665,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05762.jpg"
+        "filename": "img_05762.jpg"
     },
     {
         "annotations": [
@@ -678,7 +678,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05685.jpg"
+        "filename": "img_05685.jpg"
     },
     {
         "annotations": [
@@ -691,7 +691,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05579.jpg"
+        "filename": "img_05579.jpg"
     },
     {
         "annotations": [
@@ -704,7 +704,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05532.jpg"
+        "filename": "img_05532.jpg"
     },
     {
         "annotations": [
@@ -717,7 +717,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05519.jpg"
+        "filename": "img_05519.jpg"
     },
     {
         "annotations": [
@@ -730,7 +730,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05504.jpg"
+        "filename": "img_05504.jpg"
     },
     {
         "annotations": [
@@ -743,7 +743,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05464.jpg"
+        "filename": "img_05464.jpg"
     },
     {
         "annotations": [
@@ -756,7 +756,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05399.jpg"
+        "filename": "img_05399.jpg"
     },
     {
         "annotations": [
@@ -769,7 +769,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05391.jpg"
+        "filename": "img_05391.jpg"
     },
     {
         "annotations": [
@@ -782,7 +782,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05366.jpg"
+        "filename": "img_05366.jpg"
     },
     {
         "annotations": [
@@ -795,7 +795,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05327.jpg"
+        "filename": "img_05327.jpg"
     },
     {
         "annotations": [
@@ -808,7 +808,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05300.jpg"
+        "filename": "img_05300.jpg"
     },
     {
         "annotations": [
@@ -821,7 +821,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05257.jpg"
+        "filename": "img_05257.jpg"
     },
     {
         "annotations": [
@@ -834,7 +834,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05249.jpg"
+        "filename": "img_05249.jpg"
     },
     {
         "annotations": [
@@ -847,7 +847,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05231.jpg"
+        "filename": "img_05231.jpg"
     },
     {
         "annotations": [
@@ -860,7 +860,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05126.jpg"
+        "filename": "img_05126.jpg"
     },
     {
         "annotations": [
@@ -873,7 +873,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_05019.jpg"
+        "filename": "img_05019.jpg"
     },
     {
         "annotations": [
@@ -886,7 +886,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04910.jpg"
+        "filename": "img_04910.jpg"
     },
     {
         "annotations": [
@@ -899,7 +899,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04857.jpg"
+        "filename": "img_04857.jpg"
     },
     {
         "annotations": [
@@ -912,7 +912,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04855.jpg"
+        "filename": "img_04855.jpg"
     },
     {
         "annotations": [
@@ -925,7 +925,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04854.jpg"
+        "filename": "img_04854.jpg"
     },
     {
         "annotations": [
@@ -938,7 +938,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04837.jpg"
+        "filename": "img_04837.jpg"
     },
     {
         "annotations": [
@@ -951,7 +951,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04819.jpg"
+        "filename": "img_04819.jpg"
     },
     {
         "annotations": [
@@ -964,7 +964,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04791.jpg"
+        "filename": "img_04791.jpg"
     },
     {
         "annotations": [
@@ -977,7 +977,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04710.jpg"
+        "filename": "img_04710.jpg"
     },
     {
         "annotations": [
@@ -990,7 +990,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04682.jpg"
+        "filename": "img_04682.jpg"
     },
     {
         "annotations": [
@@ -1003,7 +1003,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04650.jpg"
+        "filename": "img_04650.jpg"
     },
     {
         "annotations": [
@@ -1016,7 +1016,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04618.jpg"
+        "filename": "img_04618.jpg"
     },
     {
         "annotations": [
@@ -1029,7 +1029,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04535.jpg"
+        "filename": "img_04535.jpg"
     },
     {
         "annotations": [
@@ -1049,7 +1049,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04359.jpg"
+        "filename": "img_04359.jpg"
     },
     {
         "annotations": [
@@ -1069,7 +1069,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04343.jpg"
+        "filename": "img_04343.jpg"
     },
     {
         "annotations": [
@@ -1082,7 +1082,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04245.jpg"
+        "filename": "img_04245.jpg"
     },
     {
         "annotations": [
@@ -1102,7 +1102,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04235.jpg"
+        "filename": "img_04235.jpg"
     },
     {
         "annotations": [
@@ -1115,7 +1115,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04177.jpg"
+        "filename": "img_04177.jpg"
     },
     {
         "annotations": [
@@ -1128,7 +1128,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04170.jpg"
+        "filename": "img_04170.jpg"
     },
     {
         "annotations": [
@@ -1148,7 +1148,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04161.jpg"
+        "filename": "img_04161.jpg"
     },
     {
         "annotations": [
@@ -1161,7 +1161,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04131.jpg"
+        "filename": "img_04131.jpg"
     },
     {
         "annotations": [
@@ -1174,7 +1174,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04110.jpg"
+        "filename": "img_04110.jpg"
     },
     {
         "annotations": [
@@ -1187,7 +1187,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_04050.jpg"
+        "filename": "img_04050.jpg"
     },
     {
         "annotations": [
@@ -1200,7 +1200,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03983.jpg"
+        "filename": "img_03983.jpg"
     },
     {
         "annotations": [
@@ -1220,7 +1220,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03976.jpg"
+        "filename": "img_03976.jpg"
     },
     {
         "annotations": [
@@ -1233,7 +1233,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03971.jpg"
+        "filename": "img_03971.jpg"
     },
     {
         "annotations": [
@@ -1246,7 +1246,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03962.jpg"
+        "filename": "img_03962.jpg"
     },
     {
         "annotations": [
@@ -1266,7 +1266,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03791.jpg"
+        "filename": "img_03791.jpg"
     },
     {
         "annotations": [
@@ -1279,7 +1279,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03770.jpg"
+        "filename": "img_03770.jpg"
     },
     {
         "annotations": [
@@ -1299,7 +1299,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03712.jpg"
+        "filename": "img_03712.jpg"
     },
     {
         "annotations": [
@@ -1312,7 +1312,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03525.jpg"
+        "filename": "img_03525.jpg"
     },
     {
         "annotations": [
@@ -1325,7 +1325,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03521.jpg"
+        "filename": "img_03521.jpg"
     },
     {
         "annotations": [
@@ -1338,7 +1338,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03507.jpg"
+        "filename": "img_03507.jpg"
     },
     {
         "annotations": [
@@ -1351,7 +1351,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03385.jpg"
+        "filename": "img_03385.jpg"
     },
     {
         "annotations": [
@@ -1364,7 +1364,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03353.jpg"
+        "filename": "img_03353.jpg"
     },
     {
         "annotations": [
@@ -1377,7 +1377,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03351.jpg"
+        "filename": "img_03351.jpg"
     },
     {
         "annotations": [
@@ -1390,7 +1390,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03305.jpg"
+        "filename": "img_03305.jpg"
     },
     {
         "annotations": [
@@ -1410,7 +1410,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03241.jpg"
+        "filename": "img_03241.jpg"
     },
     {
         "annotations": [
@@ -1423,7 +1423,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03170.jpg"
+        "filename": "img_03170.jpg"
     },
     {
         "annotations": [
@@ -1436,7 +1436,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03168.jpg"
+        "filename": "img_03168.jpg"
     },
     {
         "annotations": [
@@ -1449,7 +1449,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03148.jpg"
+        "filename": "img_03148.jpg"
     },
     {
         "annotations": [
@@ -1462,7 +1462,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03131.jpg"
+        "filename": "img_03131.jpg"
     },
     {
         "annotations": [
@@ -1475,7 +1475,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03117.jpg"
+        "filename": "img_03117.jpg"
     },
     {
         "annotations": [
@@ -1488,7 +1488,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_03057.jpg"
+        "filename": "img_03057.jpg"
     },
     {
         "annotations": [
@@ -1501,7 +1501,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02987.jpg"
+        "filename": "img_02987.jpg"
     },
     {
         "annotations": [
@@ -1514,7 +1514,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02944.jpg"
+        "filename": "img_02944.jpg"
     },
     {
         "annotations": [
@@ -1534,7 +1534,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02867.jpg"
+        "filename": "img_02867.jpg"
     },
     {
         "annotations": [
@@ -1554,7 +1554,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02790.jpg"
+        "filename": "img_02790.jpg"
     },
     {
         "annotations": [
@@ -1574,7 +1574,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02744.jpg"
+        "filename": "img_02744.jpg"
     },
     {
         "annotations": [
@@ -1587,7 +1587,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02732.jpg"
+        "filename": "img_02732.jpg"
     },
     {
         "annotations": [
@@ -1607,7 +1607,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02718.jpg"
+        "filename": "img_02718.jpg"
     },
     {
         "annotations": [
@@ -1620,7 +1620,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02624.jpg"
+        "filename": "img_02624.jpg"
     },
     {
         "annotations": [
@@ -1633,7 +1633,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02558.jpg"
+        "filename": "img_02558.jpg"
     },
     {
         "annotations": [
@@ -1646,7 +1646,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02557.jpg"
+        "filename": "img_02557.jpg"
     },
     {
         "annotations": [
@@ -1659,7 +1659,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02478.jpg"
+        "filename": "img_02478.jpg"
     },
     {
         "annotations": [
@@ -1672,7 +1672,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02469.jpg"
+        "filename": "img_02469.jpg"
     },
     {
         "annotations": [
@@ -1692,7 +1692,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02348.jpg"
+        "filename": "img_02348.jpg"
     },
     {
         "annotations": [
@@ -1705,7 +1705,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02288.jpg"
+        "filename": "img_02288.jpg"
     },
     {
         "annotations": [
@@ -1718,7 +1718,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02271.jpg"
+        "filename": "img_02271.jpg"
     },
     {
         "annotations": [
@@ -1731,7 +1731,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02260.jpg"
+        "filename": "img_02260.jpg"
     },
     {
         "annotations": [
@@ -1744,7 +1744,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02259.jpg"
+        "filename": "img_02259.jpg"
     },
     {
         "annotations": [
@@ -1757,7 +1757,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02224.jpg"
+        "filename": "img_02224.jpg"
     },
     {
         "annotations": [
@@ -1770,7 +1770,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02176.jpg"
+        "filename": "img_02176.jpg"
     },
     {
         "annotations": [
@@ -1783,7 +1783,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02169.jpg"
+        "filename": "img_02169.jpg"
     },
     {
         "annotations": [
@@ -1796,7 +1796,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02114.jpg"
+        "filename": "img_02114.jpg"
     },
     {
         "annotations": [
@@ -1809,7 +1809,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02095.jpg"
+        "filename": "img_02095.jpg"
     },
     {
         "annotations": [
@@ -1822,7 +1822,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02094.jpg"
+        "filename": "img_02094.jpg"
     },
     {
         "annotations": [
@@ -1835,7 +1835,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02088.jpg"
+        "filename": "img_02088.jpg"
     },
     {
         "annotations": [
@@ -1848,7 +1848,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02087.jpg"
+        "filename": "img_02087.jpg"
     },
     {
         "annotations": [
@@ -1861,7 +1861,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_02080.jpg"
+        "filename": "img_02080.jpg"
     },
     {
         "annotations": [
@@ -1874,7 +1874,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01986.jpg"
+        "filename": "img_01986.jpg"
     },
     {
         "annotations": [
@@ -1887,7 +1887,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01942.jpg"
+        "filename": "img_01942.jpg"
     },
     {
         "annotations": [
@@ -1900,7 +1900,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01916.jpg"
+        "filename": "img_01916.jpg"
     },
     {
         "annotations": [
@@ -1913,7 +1913,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01881.jpg"
+        "filename": "img_01881.jpg"
     },
     {
         "annotations": [
@@ -1933,7 +1933,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01820.jpg"
+        "filename": "img_01820.jpg"
     },
     {
         "annotations": [
@@ -1946,7 +1946,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01795.jpg"
+        "filename": "img_01795.jpg"
     },
     {
         "annotations": [
@@ -1959,7 +1959,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01780.jpg"
+        "filename": "img_01780.jpg"
     },
     {
         "annotations": [
@@ -1972,7 +1972,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01759.jpg"
+        "filename": "img_01759.jpg"
     },
     {
         "annotations": [
@@ -1985,7 +1985,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01572.jpg"
+        "filename": "img_01572.jpg"
     },
     {
         "annotations": [
@@ -2005,7 +2005,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01546.jpg"
+        "filename": "img_01546.jpg"
     },
     {
         "annotations": [
@@ -2018,7 +2018,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01524.jpg"
+        "filename": "img_01524.jpg"
     },
     {
         "annotations": [
@@ -2031,7 +2031,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01432.jpg"
+        "filename": "img_01432.jpg"
     },
     {
         "annotations": [
@@ -2044,7 +2044,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01406.jpg"
+        "filename": "img_01406.jpg"
     },
     {
         "annotations": [
@@ -2057,7 +2057,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01342.jpg"
+        "filename": "img_01342.jpg"
     },
     {
         "annotations": [
@@ -2077,7 +2077,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01324.jpg"
+        "filename": "img_01324.jpg"
     },
     {
         "annotations": [
@@ -2090,7 +2090,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01307.jpg"
+        "filename": "img_01307.jpg"
     },
     {
         "annotations": [
@@ -2103,7 +2103,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01298.jpg"
+        "filename": "img_01298.jpg"
     },
     {
         "annotations": [
@@ -2116,7 +2116,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01182.jpg"
+        "filename": "img_01182.jpg"
     },
     {
         "annotations": [
@@ -2129,7 +2129,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01161.jpg"
+        "filename": "img_01161.jpg"
     },
     {
         "annotations": [
@@ -2142,7 +2142,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_01061.jpg"
+        "filename": "img_01061.jpg"
     },
     {
         "annotations": [
@@ -2155,7 +2155,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00903.jpg"
+        "filename": "img_00903.jpg"
     },
     {
         "annotations": [
@@ -2175,7 +2175,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00736.jpg"
+        "filename": "img_00736.jpg"
     },
     {
         "annotations": [
@@ -2188,7 +2188,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00703.jpg"
+        "filename": "img_00703.jpg"
     },
     {
         "annotations": [
@@ -2201,7 +2201,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00685.jpg"
+        "filename": "img_00685.jpg"
     },
     {
         "annotations": [
@@ -2214,7 +2214,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00600.jpg"
+        "filename": "img_00600.jpg"
     },
     {
         "annotations": [
@@ -2234,7 +2234,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00560.jpg"
+        "filename": "img_00560.jpg"
     },
     {
         "annotations": [
@@ -2247,7 +2247,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00510.jpg"
+        "filename": "img_00510.jpg"
     },
     {
         "annotations": [
@@ -2260,7 +2260,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00478.jpg"
+        "filename": "img_00478.jpg"
     },
     {
         "annotations": [
@@ -2273,7 +2273,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00427.jpg"
+        "filename": "img_00427.jpg"
     },
     {
         "annotations": [
@@ -2286,7 +2286,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00409.jpg"
+        "filename": "img_00409.jpg"
     },
     {
         "annotations": [
@@ -2299,7 +2299,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00391.jpg"
+        "filename": "img_00391.jpg"
     },
     {
         "annotations": [
@@ -2312,7 +2312,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00365.jpg"
+        "filename": "img_00365.jpg"
     },
     {
         "annotations": [
@@ -2325,7 +2325,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00265.jpg"
+        "filename": "img_00265.jpg"
     },
     {
         "annotations": [
@@ -2338,7 +2338,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00247.jpg"
+        "filename": "img_00247.jpg"
     },
     {
         "annotations": [
@@ -2351,7 +2351,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00245.jpg"
+        "filename": "img_00245.jpg"
     },
     {
         "annotations": [
@@ -2364,7 +2364,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00235.jpg"
+        "filename": "img_00235.jpg"
     },
     {
         "annotations": [
@@ -2384,7 +2384,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00096.jpg"
+        "filename": "img_00096.jpg"
     },
     {
         "annotations": [
@@ -2404,7 +2404,7 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00072.jpg"
+        "filename": "img_00072.jpg"
     },
     {
         "annotations": [
@@ -2424,6 +2424,6 @@
             }
         ],
         "class": "image",
-        "filename": "../data/train/SHARK/img_00033.jpg"
+        "filename": "img_00033.jpg"
     }
 ]
